@@ -17,9 +17,7 @@ foi desenvolvida e testada a aplicação, resultando no ambiente de produção n
 ## Ferramentas
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="50" height="50"/>
 
-## Execução
-- Pré-requisito mínimo: Java 8
-  
+## Execução 
 :file_folder: src/main/java/courseApplication
 
 ## Autora
