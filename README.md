@@ -1,5 +1,5 @@
 # Workshop Spring Boot JPA
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)]
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 ## Descrição
 Projeto acadêmico criado com a finalidade de aprendizado com criação de projeto pelo Spring Boot, utilizando JPA (Java Persistence API) como mapeamento objeto-relacional para objetos.
